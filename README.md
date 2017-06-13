@@ -1,3 +1,7 @@
+# Note:
+This Caffe has been modified to add Convolutional LSTM layer using codes from 
+[ConvLSTM-for-Caffe](https://github.com/agethen/ConvLSTM-for-Caffe).
+
 # Caffe
 
 [![Build Status](https://travis-ci.org/BVLC/caffe.svg?branch=master)](https://travis-ci.org/BVLC/caffe)
